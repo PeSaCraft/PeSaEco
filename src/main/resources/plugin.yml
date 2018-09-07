@@ -1,0 +1,9 @@
+name: PeSaEco
+version: SNAPSHOT-003
+main: EcoMain
+author: Test
+commands:
+  eco:
+    description: Get Money
+  pay:
+    description: Give Money to antother Player
